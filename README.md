@@ -22,7 +22,3 @@ A web-based Student Management System developed using Spring Boot to manage stud
 - ORM: Spring Data JPA (Hibernate)  
 - Build Tool: Maven  
 
----
-
-## 📂 Project Structure
-
